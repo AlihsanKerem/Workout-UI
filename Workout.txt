@@ -1,0 +1,44 @@
+Chest:
+    ---
+    12 Normal Sinav
+    12 Bas Decline Sinav
+    12 Yanlara Sinav
+    12 Elmas Sinav
+    ---
+    With Weight
+    10 Normal Sinav
+    10 Genis Sinav
+    10 Elmas Sinav
+    10 Bench Press
+    10 Yanlardan öne göğsü sıkıştırma dumblee ile
+    ---
+    Gücün kalırsa tekrar
+Back:
+    12 Yatay barfiks
+    6 Normal barfiks
+    10 dumbell row
+    10 dumbell bel row
+    10 çantayla kafaya çekme
+    ---
+    10 barbell row
+    10 barbell row
+    ---
+    10 dumbell row
+    10 dumbell bel row
+    10 çantayla kafaya çekme
+    Gücün kalırsa tekrar
+Shoulder:
+    12 Pike Sinav
+    12 Yüksek Pike Sinav
+    Gücün yettigi kadar amut sinav
+    4 Duvarda yürüme
+    10 Shoulder to shoulder
+    Kaldığın kadar Truck durusu
+    kaldığın kadar plance durusu
+    10 yanlara dumbell rise
+    Tekrar
+Karın:
+    Thenx karın egzersizi
+Bacak:
+    Thenx bacak egzersizi
+
