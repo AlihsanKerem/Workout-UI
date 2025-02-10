@@ -2,7 +2,7 @@ from tkinter import *
 
 
 def click():
-    mylabel = Label(root, text="Sıla")
+    mylabel = Label(root, text="aaa")
     mylabel.pack()
 
 root = Tk()
